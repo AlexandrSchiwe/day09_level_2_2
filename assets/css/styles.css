@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    background-image: url("https://images.unsplash.com/photo-1503753611162-ac7f3aa44d61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+section div:first-child {
+    padding: 20px;
+}
+
+section div div {
+    background: rgba(255, 255, 255, 0.4);
+    padding: 20px;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 2em;
+}
